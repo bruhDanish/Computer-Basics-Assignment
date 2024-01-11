@@ -1,0 +1,15 @@
+1. It is an electronic device for storing and processing data, according to the instructions given by the user in a variable program.
+
+2. RAM stands for Random access Memory, it is the primary memory of the computer that helps in completing the real time tasks the computer is doing.
+
+3. The data is stored in the Secondary Memory of the computer, like HDDs and SSDs.
+
+4. Keyboard.
+
+5. Monitor, printer, speakers, etc.
+
+6. Mouse.
+
+7. Binary Language.
+
+8. Keyboard, mouse, joystick, scanner etc.
